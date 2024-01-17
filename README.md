@@ -1,1 +1,1 @@
-# Foundations-of-Data-Science
+# Machine Learning Assignments
